@@ -1,7 +1,7 @@
 
 public class Hello {
 	public static String hello() {
-		return "HELLO";
+		return "Siema";
 	}
 
 }
